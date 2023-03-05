@@ -6,3 +6,16 @@
 
 Демонстрация работы: 
 
+## Начало игры ⬇️
+![view](https://github.com/artemKhlv/minesweeper/blob/main/view.png)
+
+## Демонстрация с минами ⬇️
+![view_with_mines](https://github.com/artemKhlv/minesweeper/blob/main/view_with_mines.png)
+
+## Демонстрация с проигрышем ⬇️
+![lost](https://github.com/artemKhlv/minesweeper/blob/main/lost.png)
+
+## Демонстрация с выигрышем ⬇️
+![lost](https://github.com/artemKhlv/minesweeper/blob/main/won.png)
+
+*Понимаю, что задача в полной мере не выполнена, но с учетом ограничений по времени вышло довольно понятно с точки зрения опыта и желанием работать дальше, и набираться большем опытом у людей по старше.
